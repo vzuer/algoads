@@ -3,7 +3,6 @@ package cn.vzuer.algoads.sort;
 public abstract class Sort<T extends Comparable<T>> {
 
     public abstract void sort(T[] nums);
-    public class SelectionSort(T[] nums);
     protected boolean less(T a, T b) {
         return a.compareTo(b) < 0;
     }
