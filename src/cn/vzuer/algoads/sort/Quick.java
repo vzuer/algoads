@@ -1,4 +1,4 @@
-package cn.vzuer.algoads.sort;
+/*package cn.vzuer.algoads.sort;
 
 public class Quick<T extends Comparable<T>> extends Sort<T> {
 
@@ -7,4 +7,4 @@ public class Quick<T extends Comparable<T>> extends Sort<T> {
 
     }
 
-}
+}*/
