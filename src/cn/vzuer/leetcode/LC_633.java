@@ -1,6 +1,6 @@
 package cn.vzuer.leetcode;
 
-public class LC_633 implements Solution {
+public class LC_633{
     public boolean judgeSquareSum(int c) {
         int a = 0, b = (int) Math.sqrt(c);
         while (a <= b) {
