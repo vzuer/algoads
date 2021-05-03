@@ -5,10 +5,6 @@ import java.util.List;
 import java.util.Map;
 
 public class LC_554 {
-
-}
-
-class Solution {
     public int leastBricks(List<List<Integer>> wall) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < wall.size(); ++i) {

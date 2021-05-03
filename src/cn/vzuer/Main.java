@@ -13,12 +13,15 @@ public class Main {
 //      boolean ans = sl.judgeSquareSum(100);
 //      System.out.println(ans);
 //        Selection<Integer> selection = new Selection<>();
-        Integer[] arr = {1, 5, 0, 3, 9, 7, 2, 8, 4, 6};
+//        Integer[] arr = {1, 5, 0, 3, 9, 7, 2, 8, 4, 6};
 //        selection.sort(arr);
 //        for(Integer x : arr){
 //            System.out.println(x);
 //        }
-        Queue<Integer> Q = new LinkedList<>(){{ add(arr[1]); }};
-        System.out.println(Q.peek());
+//        Queue<Integer> Q = new LinkedList<>(){{ add(arr[1]); }};
+//        System.out.println(Q.peek());
+        int x = -321;
+        System.out.println(x % 10);
+        System.out.println(x % -10);
     }
 }
